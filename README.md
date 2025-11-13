@@ -1,5 +1,6 @@
 # Task Management System
 
+The main goal of this project was to learn how to utilize Kafka and Docker. Front-end HTML was written by Claude!
 
 ## Features
 
@@ -21,10 +22,6 @@
 - **Task Completion** - Track project progress
 - **Team Productivity** - Monitor individual performance
 - **Time Tracking** - Aggregate hours logged per task/user (in DB not in frontend)
-
-
-### Technology Stack
-
 
 ## Prerequisites
 
